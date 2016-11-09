@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.kf.framework</groupId>
+  <artifactId>kfsdk</artifactId>
+  <version>1.2.3</version>
+  <packaging>aar</packaging>
+  <name>KF SDK 4.0 Library</name>
+  <description></description>
+  <url>https://github.com/KuaiFaMaster/kfsdk</url>
+  <licenses>
+    <license>
+      <name>The kuaifazs Software License, Version 1.0</name>
+      <url>http://www.kuaifazs.com/</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>001</id>
+      <name>001 &lt;001@kuaifazs.com></name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:KuaiFaMaster/kfsdk.git</connection>
+    <developerConnection>scm:git@github.com:KuaiFaMaster/kfsdk.git</developerConnection>
+    <url>https://github.com/KuaiFaMaster/kfsdk</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>multidex</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
