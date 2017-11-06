@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01c0aeef-5f34-4366-8266-a98dbde168c3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0-eclipse.zip" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0-eclipse.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.aar" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0-eclipse.zip.md5" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0-eclipse.zip.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0-eclipse.zip.sha1" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0-eclipse.zip.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.aar.md5" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.aar.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.aar.sha1" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.aar.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom.md5" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom.sha1" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom.sha1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml" afterPath="$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kfsdk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,28 +34,7 @@
     <favorites_list name="kfsdk" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="kfsdk-1.5.0.pom" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4684271">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kfsdk-1.4.6.pom" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/1.4.6/kfsdk-1.4.6.pom">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,8 +65,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="909" />
+    <option name="y" value="77" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -102,7 +93,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,31 +176,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kfsdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kfsdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="copyright" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,8 +189,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\INsdk\kfsdk" />
       <recent name="D:\INsdk\kfsdk\com\kf\framework\kfsdk" />
+      <recent name="D:\INsdk\kfsdk" />
     </key>
   </component>
   <component name="RunManager">
@@ -379,7 +352,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="909" y="77" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -414,31 +387,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.md5">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.sha1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml">
+    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/1.4.6/kfsdk-1.4.6.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -474,35 +423,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.sha1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.md5">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/kf/framework/kf-utils/maven-metadata.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.1724138">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,6 +495,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/maven-metadata.xml.sha1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -582,14 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/kf/framework/kfsdk/1.5.0/kfsdk-1.5.0.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4684271">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding />
         </state>
       </provider>

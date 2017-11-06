@@ -25,5 +25,12 @@
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>net.gameworks.gameplatform</groupId>
+      <artifactId>kuaifa-sdk-login-pay-KFZS</artifactId>
+      <version>LATEST</version>
+      <type>aar</type>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
