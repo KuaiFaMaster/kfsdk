@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01c0aeef-5f34-4366-8266-a98dbde168c3" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0-eclipse.zip" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0-eclipse.zip.md5" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0-eclipse.zip.sha1" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0.aar" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0.aar.md5" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0.aar.sha1" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0.pom" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0.pom.md5" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\1.5.0\kfsdk-1.5.0.pom.sha1" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\maven-metadata.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\maven-metadata.xml.md5" afterPath="" />
-      <change type="DELETED" beforePath="D:\INsdk\kfsdk\com\kf\framework\kfsdk\maven-metadata.xml.sha1" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="01c0aeef-5f34-4366-8266-a98dbde168c3" name="Default" comment="" />
     <ignored path="kfsdk.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +51,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="454" />
-    <option name="y" value="8" />
+    <option name="x" value="227" />
+    <option name="y" value="7" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -110,28 +96,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="kfsdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kfsdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kfsdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,7 +276,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="454" y="8" width="1936" height="1056" extended-state="0" />
+    <frame x="227" y="7" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
