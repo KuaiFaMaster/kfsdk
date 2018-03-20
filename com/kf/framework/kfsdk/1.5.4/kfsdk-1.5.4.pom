@@ -15,13 +15,13 @@
     </dependency>
     <dependency>
       <groupId>KSFSDDemo</groupId>
-      <artifactId>kf-utils</artifactId>
+      <artifactId>volleyplus</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>KSFSDDemo</groupId>
-      <artifactId>volleyplus</artifactId>
+      <artifactId>kf-utils</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
