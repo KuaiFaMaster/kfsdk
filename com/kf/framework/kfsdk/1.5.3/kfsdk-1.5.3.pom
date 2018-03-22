@@ -4,12 +4,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kf.framework</groupId>
   <artifactId>kfsdk</artifactId>
-  <version>1.5.4</version>
+  <version>1.5.3</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>KSFSDDemo</groupId>
-      <artifactId>volleyplus</artifactId>
+      <artifactId>kf-utils</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
@@ -20,16 +20,16 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>KSFSDDemo</groupId>
+      <artifactId>volleyplus</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>net.gameworks.gameplatform</groupId>
       <artifactId>kuaifa-sdk-login-pay-KFZS</artifactId>
       <version>LATEST</version>
       <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>KSFSDDemo</groupId>
-      <artifactId>kf-utils</artifactId>
-      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
