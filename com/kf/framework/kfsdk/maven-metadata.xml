@@ -3,7 +3,7 @@
   <groupId>com.kf.framework</groupId>
   <artifactId>kfsdk</artifactId>
   <versioning>
-    <release>1.5.8</release>
+    <release>1.6.0</release>
     <versions>
       <version>1.5.3</version>
       <version>1.5.4</version>
@@ -11,7 +11,8 @@
       <version>1.5.6</version>
       <version>1.5.7</version>
       <version>1.5.8</version>
+      <version>1.6.0</version>
     </versions>
-    <lastUpdated>20180326211738</lastUpdated>
+    <lastUpdated>20180326212541</lastUpdated>
   </versioning>
 </metadata>
