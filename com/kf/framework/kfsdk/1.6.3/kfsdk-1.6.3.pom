@@ -52,15 +52,11 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <artifactId>kuaifa-sdk-login-pay-KFZS-1.5.7</artifactId>
+      <groupId>net.gameworks.gameplatform</groupId>
+      <artifactId>kuaifa-sdk-login-pay-KFZS</artifactId>
+      <version>LATEST</version>
       <type>aar</type>
       <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
   </dependencies>
 </project>
