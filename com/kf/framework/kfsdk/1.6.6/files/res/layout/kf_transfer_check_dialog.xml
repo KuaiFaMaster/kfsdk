@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/kf_transfer_dialog_bg"
+              android:orientation="vertical"
+              android:padding="20dp">
+
+    <Button
+        android:id="@+id/kf_get_transfer_code"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/kf_dialog_yellow_bt"
+        android:text="生成关联码"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/kf_bind_transfer_code"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/kf_dialog_blue_bt"
+        android:text="绑定关联码"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"/>
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/kf_transfer_dialog_bg"
+              android:orientation="vertical"
+              android:padding="20dp">
+
+    <EditText
+        android:id="@+id/kf_input_transfer_code"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/kf_transfer_code_edit_bg"
+        android:gravity="center_vertical"
+        android:hint="请输入关联码"
+        android:paddingEnd="15dp"
+        android:paddingStart="15dp"
+        android:textColor="@android:color/background_dark"
+        android:textColorHint="#b9b8b8"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="注意：关联码一旦绑定，原账号下的角色信息将被清空，并自动关联到当前登录的账号下！"
+        android:textColor="#666666"
+        android:textSize="14sp"/>
+
+    <Button
+        android:id="@+id/kf_bind_transfer_code"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/kf_dialog_blue_bt"
+        android:text="绑定关联码"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"/>
+</LinearLayout>
